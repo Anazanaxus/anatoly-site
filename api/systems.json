@@ -1,0 +1,70 @@
+[
+  {
+    "id": 1,
+    "username": "@PryanickShopBot",
+    "purpose": "Магазин-бот с каталогом и приёмом заказов",
+    "url": "https://t.me/PryanickShopbot",
+    "status": "в продакшене",
+    "note": null,
+    "demo_url": null,
+    "sort_order": 1,
+    "screenshots": [
+      {
+        "id": "sys-1-shot-1",
+        "src": "/screenshots/systems-sweet-home.png",
+        "caption": "Витрина «Sweet Home» внутри Telegram: каталог, корзина и консультант «Мила»"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "username": "@rezeptipp22bot",
+    "purpose": "Бот рецептов с подбором и пошаговыми подсказками",
+    "url": "https://t.me/rezeptipp22bot",
+    "status": "в продакшене",
+    "note": null,
+    "demo_url": null,
+    "sort_order": 2,
+    "screenshots": [
+      {
+        "id": "sys-2-shot-1",
+        "src": "/screenshots/systems-nutriwell.png",
+        "caption": "NutriWell: карточка рецепта с КБЖУ, диаграммой нутриентов и ингредиентами"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "username": "@agentpoprodazhamkrossovokbot",
+    "purpose": "AI-агент по продаже кроссовок: подбор модели и размера, оформление заказа",
+    "url": "https://t.me/agentpoprodazhamkrossovokbot",
+    "status": "в продакшене",
+    "note": null,
+    "demo_url": null,
+    "sort_order": 3,
+    "screenshots": [
+      {
+        "id": "sys-3-shot-1",
+        "src": "/screenshots/systems-sneaker-hub.png",
+        "caption": "Магазин «SNEAKER HUB»: каталог кроссовок с фильтрами по брендам, скидками, корзиной и AI-ассистентом"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "username": "@myasnoi_calculatorbot",
+    "purpose": "Мясной калькулятор в Telegram: пересчёт рецептов и себестоимость",
+    "url": "https://t.me/myasnoi_calculatorbot",
+    "status": "в продакшене",
+    "note": "веб-версия:",
+    "demo_url": "https://myasnoicalculator.space-z.ai/",
+    "sort_order": 4,
+    "screenshots": [
+      {
+        "id": "sys-4-shot-1",
+        "src": "/screenshots/systems-butcher-calc.png",
+        "caption": "Mini App «Калькулятор мясника»: рецепт свободным текстом, готовые шаблоны (Краковская, Докторская, Салями) и вкладки «Экономика»/«КБЖУ»"
+      }
+    ]
+  }
+]

@@ -1,0 +1,2 @@
+RewriteEngine On
+RewriteRule ^api/([a-z_]+)$ api.php?name=$1 [L]
